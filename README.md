@@ -1,6 +1,6 @@
-# Data Mining
+# Groceries Market Basket Analysis
 
-## This repositiory is for A Study on the Groceries Market Basket Dataset using Association Rule Mining
+## This is a working repositiory for a study on the Groceries Market Basket Dataset using Association Rule Mining
 
 ### Group Name: MarketInsights
 ### Group Memebers: Shri Abhiraami Thangavel, Rohan Reddy Galipur, Greg Gibson, Henry Yang, Mounika Yallamandhala
